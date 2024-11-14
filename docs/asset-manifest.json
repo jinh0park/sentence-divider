@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sentence-divider/static/css/main.e6c13ad2.css",
+    "main.js": "/sentence-divider/static/js/main.41785722.js",
+    "static/js/453.ad67f0d7.chunk.js": "/sentence-divider/static/js/453.ad67f0d7.chunk.js",
+    "index.html": "/sentence-divider/index.html",
+    "main.e6c13ad2.css.map": "/sentence-divider/static/css/main.e6c13ad2.css.map",
+    "main.41785722.js.map": "/sentence-divider/static/js/main.41785722.js.map",
+    "453.ad67f0d7.chunk.js.map": "/sentence-divider/static/js/453.ad67f0d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.41785722.js"
+  ]
+}
